@@ -1,0 +1,1 @@
+console.log('SQUASH 1');
